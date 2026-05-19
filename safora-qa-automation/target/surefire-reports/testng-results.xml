@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-19T17:11:07 IST" name="Safora Suite" finished-at="2026-05-19T17:14:12 IST" duration-ms="184350">
+    <groups>
+    </groups>
+    <test started-at="2026-05-19T17:11:07 IST" name="Contact Us Tests" finished-at="2026-05-19T17:14:12 IST" duration-ms="184350">
+      <class name="TestCases.ContactUsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:11:07 IST" name="setup" finished-at="2026-05-19T17:11:23 IST" duration-ms="15095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidEmailValidation()[pri:2, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:11:23 IST" name="invalidEmailValidation" finished-at="2026-05-19T17:11:56 IST" duration-ms="33370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:11:56 IST" name="tearDown" finished-at="2026-05-19T17:11:56 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:11:56 IST" name="setup" finished-at="2026-05-19T17:12:10 IST" duration-ms="13745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="emptyFormValidation()[pri:3, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:12:10 IST" name="emptyFormValidation" finished-at="2026-05-19T17:12:41 IST" duration-ms="30836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:12:41 IST" name="tearDown" finished-at="2026-05-19T17:12:41 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:12:41 IST" name="setup" finished-at="2026-05-19T17:12:55 IST" duration-ms="13149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidPhoneValidation()[pri:4, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:12:55 IST" name="invalidPhoneValidation" finished-at="2026-05-19T17:13:26 IST" duration-ms="31514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPhoneValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:13:26 IST" name="tearDown" finished-at="2026-05-19T17:13:26 IST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:13:26 IST" name="setup" finished-at="2026-05-19T17:13:39 IST" duration-ms="12970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="shortMessageValidation()[pri:5, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:13:39 IST" name="shortMessageValidation" finished-at="2026-05-19T17:14:11 IST" duration-ms="31879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shortMessageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.ContactUsTest@61230f6a]" started-at="2026-05-19T17:14:11 IST" name="tearDown" finished-at="2026-05-19T17:14:12 IST" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.ContactUsTest -->
+    </test> <!-- Contact Us Tests -->
+  </suite> <!-- Safora Suite -->
+</testng-results>
